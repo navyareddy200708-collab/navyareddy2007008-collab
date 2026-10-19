@@ -1,97 +1,124 @@
-<!--
-PROFILE README PACKAGE
-Before publishing: create the public repository named exactly:
-navyareddy200708-collab/navyareddy200708-collab
-Then copy this file to that repository as README.md.
-The banner URL below is hosted in the portfolio repository.
--->
+<!-- NAVYA REDDY / PROFILE SYSTEM / MIDNIGHT + TEAL + IVORY -->
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/profile-banner.svg" width="100%" alt="Navya Reddy — Computer Science Engineering, software projects and applied AI" />
+  <br/><br/>
+  <a href="https://github.com/navyareddy200708-collab/Navya-Reddy-Porfolio"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-63E6D1?style=for-the-badge&labelColor=10172A" alt="Explore portfolio repository" /></a>
+  <a href="https://github.com/navyareddy200708-collab?tab=repositories"><img src="https://img.shields.io/badge/SOURCE-REPOSITORIES-F1EEE5?style=for-the-badge&labelColor=10172A" alt="Browse repositories" /></a>
+  <a href="https://www.linkedin.com/in/navya-reddy-811092377"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-9B9BFF?style=for-the-badge&labelColor=10172A" alt="Connect on LinkedIn" /></a>
+</div>
 
-<img src="https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/profile-banner.svg" alt="Navya Reddy — software engineering, web development and applied AI" width="100%" />
+<p align="center">
+  <code>SOFTWARE DEVELOPMENT</code> &nbsp; / &nbsp; <code>APPLIED AI</code> &nbsp; / &nbsp; <code>WEB SYSTEMS</code>
+</p>
 
-<br/>
+## 01 / Engineering profile
 
-**Computer Science Engineering student · Developer · Applied AI explorer**
+I’m **Navya Reddy**, a Computer Science Engineering student interested in building useful software and exploring applied AI. I learn by turning concepts into projects, understanding how the components work together, and improving what I build through iteration.
 
-*I learn by building, testing ideas, and turning technical concepts into useful software.*
-
-[Portfolio](https://github.com/navyareddy200708-collab/Navya-Reddy-Porfolio) · [Repositories](https://github.com/navyareddy200708-collab?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/navya-reddy-811092377)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-63E6D1?style=flat-square&labelColor=10172A" alt="Focus: web development" />
+  <img src="https://img.shields.io/badge/FOCUS-PYTHON-63E6D1?style=flat-square&labelColor=10172A" alt="Focus: Python" />
+  <img src="https://img.shields.io/badge/FOCUS-APPLIED_AI-9B9BFF?style=flat-square&labelColor=10172A" alt="Focus: applied AI" />
 </div>
 
 ---
 
-## / Selected work
+## 02 / Selected builds
 
-Projects first. Each entry reflects a repository or project currently visible in my GitHub account; maturity labels are intentionally conservative.
-
-### 01 — MobileNet Image Classifier
-**Python · FastAPI · MobileNetV2**
-
-A web application that accepts image uploads and returns image classifications using a pretrained MobileNetV2 model. The repository documents the local run flow, a `/predict` endpoint, a `/health` endpoint, and a deployment command.
-
-[Repository →](https://github.com/navyareddy200708-collab/mobilenet-classifier-app)
-
-**Status:** Application code and run instructions present; verify the live deployment before sharing a demo link.
-
-### 02 — Navya Reddy Portfolio
-**HTML · CSS · JavaScript**
-
-A personal portfolio with sections for introduction, skills, projects, education, and contact. The interface includes a custom visual identity, animated background elements, and navigation.
-
-[Repository →](https://github.com/navyareddy200708-collab/Navya-Reddy-Porfolio)
-
-**Status:** Portfolio source available; some project links in the site still need to be connected to real destinations.
-
-### 03 — Celestia Residency
-**Frontend web development**
-
-A separate website project in my repositories. I’m keeping its summary concise until its documentation and current behavior are reviewed.
-
-[Repository →](https://github.com/navyareddy200708-collab/celestia-residency)
-
-**Status:** Repository exists; README and live demo not verified.
-
-### 04 — IP-SAKTI-Sahayak
-**RAG · AI assistant · Regulatory information**
-
-An early-stage repository described as a multilingual RAG-based assistant for Ayurveda intellectual-property and regulatory guidance. The concept explores retrieving relevant source material to support answers.
-
-[Repository →](https://github.com/navyareddy200708-collab/IP-SAKTI-Sahayak)
-
-**Status:** Early-stage / implementation needs verification. Not presented as a completed or production-ready system.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — <a href="https://github.com/navyareddy200708-collab/mobilenet-classifier-app">MobileNet Image Classifier</a></h3>
+      <p><strong>Computer Vision · Web API</strong></p>
+      A web application for classifying uploaded images using a pretrained MobileNetV2 model. The repository documents a FastAPI app with a browser interface, prediction endpoint, and health endpoint.
+      <p><code>Python</code> <code>FastAPI</code> <code>MobileNetV2</code></p>
+      <sub>Application code and run instructions available</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 — <a href="https://github.com/navyareddy200708-collab/IP-SAKTI-Sahayak">IP-SAKTI-Sahayak</a></h3>
+      <p><strong>Retrieval-Augmented Generation · Regulatory information</strong></p>
+      An early-stage multilingual RAG assistant concept for Ayurveda intellectual-property and regulatory guidance. The next important step is to document the retrieval pipeline and evaluate grounded answers.
+      <p><code>RAG</code> <code>LLMs</code> <code>Python exploration</code></p>
+      <sub>Early-stage / verify implementation status</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — <a href="https://github.com/navyareddy200708-collab/Navya-Reddy-Porfolio">Navya Reddy Portfolio</a></h3>
+      <p><strong>Frontend · UI engineering</strong></p>
+      A personal portfolio with custom visual styling, animated background elements, navigation, project listings, education, and contact sections.
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <sub>Website source available · project links being refined</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 — <a href="https://github.com/navyareddy200708-collab/celestia-residency">Celestia Residency</a></h3>
+      <p><strong>Frontend web development</strong></p>
+      A separate website project in my repositories. Its README, feature list, and live deployment still need a careful review before making more specific claims.
+      <p><code>Web development</code></p>
+      <sub>Repository available · further documentation pending</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## / Public activity
+## 03 / Technical toolkit
 
-The panel is generated daily from GitHub's public events API. GitHub may omit older events, and the panel can be empty when no public events are available.
+<table>
+  <tr>
+    <td width="23%"><strong>Programming</strong></td>
+    <td>Python · C · JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>Web</strong></td>
+    <td>HTML · CSS · JavaScript · FastAPI browser interface</td>
+  </tr>
+  <tr>
+    <td><strong>Applied AI</strong></td>
+    <td>MobileNetV2 image classification · RAG / LLM exploration</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering workflow</strong></td>
+    <td>REST endpoints · local environment setup · deployment configuration · project documentation</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github&theme=dark" alt="Python, C, HTML, CSS, JavaScript, Git and GitHub" />
+</p>
+
+---
+
+## 04 / How I build
+
+```text
+UNDERSTAND THE PROBLEM
+  └─► Build a small, testable version
+        └─► Connect interface and application logic
+              └─► Test the behavior
+                    └─► Document what works
+                          └─► Iterate
+```
+
+I’m particularly interested in projects where software engineering meets AI: not only connecting a model to an interface, but also learning how to evaluate its behavior and explain its limitations.
+
+---
+
+## 05 / Public activity
+
+This panel is refreshed automatically from public GitHub events. GitHub may return only a limited recent history, so the panel can be empty when no public events are available.
 
 ![Recent public GitHub activity](https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/assets/public-activity.svg)
 
-## / Technical toolkit
+---
 
-| Discipline | Technologies evidenced in my projects |
-|---|---|
-| Web interface | HTML, CSS, JavaScript |
-| Python applications | Python, FastAPI |
-| Applied AI | MobileNetV2, pretrained image classification, RAG exploration |
-| Engineering practice | REST endpoints, local environment setup, deployment configuration |
+<div align="center">
 
-I’m continuing to strengthen my fundamentals in software development, data structures, databases, and AI/ML through coursework and project work.
+**Learn deliberately. Build honestly. Improve every iteration.**
 
-## / Current engineering approach
+[Portfolio repository ↗](https://github.com/navyareddy200708-collab/Navya-Reddy-Porfolio) &nbsp; · &nbsp; [Browse repositories ↗](https://github.com/navyareddy200708-collab?tab=repositories)
 
-- Build a working, understandable version before adding complexity.
-- Document how to install, run, and test a project.
-- Keep project claims aligned with what the code actually does.
-- Treat model outputs and retrieval-based answers as things to evaluate, not blindly trust.
+<sub>Visual system: midnight navy · mineral teal · warm ivory · electric indigo</sub>
 
-## / Find me
-
-- **GitHub:** [@navyareddy200708-collab](https://github.com/navyareddy200708-collab)
-- **Portfolio source:** [Navya-Reddy-Porfolio](https://github.com/navyareddy200708-collab/Navya-Reddy-Porfolio)
-- **LinkedIn:** [Navya Reddy](https://www.linkedin.com/in/navya-reddy-811092377)
-
-<sub>Designed with a midnight-navy, mineral-teal, and electric-indigo visual system. External statistics and activity widgets are intentionally omitted unless they add reliable information.</sub>
+</div>

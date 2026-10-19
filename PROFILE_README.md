@@ -64,6 +64,12 @@ An early-stage repository described as a multilingual RAG-based assistant for Ay
 
 ---
 
+## / Public activity
+
+The panel is generated daily from GitHub's public events API. GitHub may omit older events, and the panel can be empty when no public events are available.
+
+![Recent public GitHub activity](https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/assets/public-activity.svg)
+
 ## / Technical toolkit
 
 | Discipline | Technologies evidenced in my projects |

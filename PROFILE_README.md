@@ -113,6 +113,21 @@ This panel is refreshed automatically from public GitHub events. GitHub may retu
 
 ---
 
+## 06 / Contribution animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/assets/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake tracing the public GitHub contribution graph" src="https://raw.githubusercontent.com/navyareddy200708-collab/Navya-Reddy-Porfolio/main/assets/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+The contribution animation is generated daily by GitHub Actions and will appear after its first successful run.
+
+---
+
+
 <div align="center">
 
 **Learn deliberately. Build honestly. Improve every iteration.**
